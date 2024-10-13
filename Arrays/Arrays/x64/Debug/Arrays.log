@@ -1,0 +1,4 @@
+﻿  Arrays.cpp
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\Arrays\Arrays.cpp(11,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\Arrays\Arrays.cpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Arrays.vcxproj -> C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\Arrays\x64\Debug\Arrays.exe
