@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\OOP_Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7269B9D9-670B-403F-B659-2C744D1C014C}|OOP_Exercise.vcxproj|C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\OOP_Exercise\\OOP_Exercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7269B9D9-670B-403F-B659-2C744D1C014C}|OOP_Exercise.vcxproj|solutionrelative:OOP_Exercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C062713D-D431-4CED-AC03-89642A58C9CD}|..\\Casting\\Casting.vcxproj|C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\Casting\\Casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OOP_Exercise.cpp",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\OOP_Exercise\\OOP_Exercise.cpp",
-              "RelativeDocumentMoniker": "OOP_Exercise.cpp",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\OOP_Exercise\\OOP_Exercise.cpp",
-              "RelativeToolTip": "OOP_Exercise.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Casting.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\Casting\\Casting.cpp",
+              "RelativeDocumentMoniker": "..\\Casting\\Casting.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Ege \u00DCniversitesi\\BTKAkademi\\C\u002B\u002BProgramming\\Casting\\Casting.cpp",
+              "RelativeToolTip": "..\\Casting\\Casting.cpp",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T16:29:29.692Z",
+              "WhenOpened": "2024-10-14T10:07:22.009Z",
               "EditorCaption": ""
             }
           ]

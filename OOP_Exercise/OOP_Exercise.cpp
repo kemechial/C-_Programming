@@ -2,10 +2,67 @@
 //
 
 #include <iostream>
+using namespace std;
+
+class Area
+{
+public:
+	int width;
+	int height;
+	int area;
+
+	void input_data() {
+		cout << "width: ";
+		cin >> width;
+
+		cout << "height: ";
+		cin >> height;
+
+	}
+
+	Area() {
+		width = 0;
+		height = 0;
+		cout << "new Area created." << endl;
+	}
+
+
+
+	Area(bool t) {
+		cout << "new Area created. (bool)" << endl;
+
+	}
+
+	~Area() {
+		cout << "Area destroyed" << endl;
+
+	}
+
+	void calculate() {
+		area = height * width;
+		cout << "area is: " << area << endl;
+	}
+
+
+};
+
+
+
+
+
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	{
+		Area area1;
+		area1.input_data();
+		area1.calculate();
+		Area area2(true);
+
+	} // object is destructed outside the block
+
+	cout << "outside the block.";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
