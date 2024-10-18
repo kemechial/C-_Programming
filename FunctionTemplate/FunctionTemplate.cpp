@@ -4,21 +4,60 @@
 #include <iostream>
 using namespace std;
 
-template<typename TemplateType>
-//template<class TemplateType> equvilant
+template<class TemplateType> //equvilant
 
 void out_func(TemplateType t) {
     cout << t << endl;
 }
+template<typename TemplateType2, typename TemplateType>
+
+void out_func(TemplateType2 t, TemplateType t2) {
+    cout << t << endl;
+}
+
+template<typename TemplateType>  // This acts like a modifier, so it should be next to the function /class
+
+class Test {
+    public:
+        TemplateType t1{}, t2{};
+   
+        TemplateType sum_func() {
+            return t1 + t2;
+     }
+        
+
+     
+};
+template<typename TemplateType>  // This acts like a modifier, so it should be next to the function
+TemplateType* make_class() {
+    TemplateType object;
+    return &object;
+}
+
+template<typename TemplateType, typename TemplateType2>
+
+void sum_func(TemplateType t1, TemplateType2 t2) {
+    cout << t1 + t2 << endl;
+
+}
 
 int main()
 {
+    
     out_func("test");
     out_func(5);
     out_func(5.6f);
     out_func(6.7);
-}
 
+    sum_func(3, 4);
+    sum_func(4, 5.1f);
+    sum_func<int>(4.3, 6.2);
+    
+    Test<int> test1;
+    test1.t1 = 5;
+    test1.t2 = 3;
+    cout << test1.sum_func() << endl;
+}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

@@ -1,2 +1,7 @@
 ﻿  FunctionTemplate.cpp
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\FunctionTemplate.cpp(54,19): warning C4244: 'argument': conversion from 'double' to 'TemplateType', possible loss of data
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\FunctionTemplate.cpp(54,19): warning C4244:         with
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\FunctionTemplate.cpp(54,19): warning C4244:         [
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\FunctionTemplate.cpp(54,19): warning C4244:             TemplateType=int
+C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\FunctionTemplate.cpp(54,19): warning C4244:         ]
   FunctionTemplate.vcxproj -> C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C++Programming\FunctionTemplate\x64\Debug\FunctionTemplate.exe
