@@ -1,0 +1,1 @@
+cmake kullanırken dizin adında türkçe karakter ya da boşluk olmamalı!!!!!

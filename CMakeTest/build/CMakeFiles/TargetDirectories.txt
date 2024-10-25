@@ -1,0 +1,3 @@
+C:/Users/Lenovo/OneDrive - Ege Üniversitesi/BTKAkademi/C++Programming/CMakeTest/build/CMakeFiles/outfile.dir
+C:/Users/Lenovo/OneDrive - Ege Üniversitesi/BTKAkademi/C++Programming/CMakeTest/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/OneDrive - Ege Üniversitesi/BTKAkademi/C++Programming/CMakeTest/build/CMakeFiles/rebuild_cache.dir
